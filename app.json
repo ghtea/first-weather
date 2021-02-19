@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Weather app for learning React Native",
+    "githubUrl": "https://github.com/ghtea/first-weather"
   }
 }

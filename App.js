@@ -55,6 +55,7 @@ export default class extends React.Component {
       isLoading 
         ? <Loading />
         : <Weather 
+          condition={condition}
           temp={Math.round(temp)}
         />
     );
